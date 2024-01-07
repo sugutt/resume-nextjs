@@ -3,10 +3,10 @@ import { LinkedInIcon } from "../components/icons/LinkedInIcon";
 import { XIcon } from "../components/icons/XIcon";
 
 export const RESUME_DATA = {
-  name: "Jason Liu",
-  initials: "jxnl",
-  location: "New York",
-  locationLink: "https://www.google.com/maps/place/New+York",
+  name: "Emmanuel Sugutt",
+  initials: "sugutt",
+  location: "Nairobi",
+  locationLink: "https://www.google.com/maps/place/Nairobi",
   about:
     "Cycling my time between artist and tinkerer. Currently I’m obsessed with finding the right abstractions and patterns to work with large language models.",
   summary:
@@ -14,32 +14,32 @@ export const RESUME_DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/4852235?v=4",
   personalWebsiteUrl: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
   contact: {
-    email: "jason@jxnl.co",
-    tel: "4156106247",
+    email: "sugutmanu@gmail.com",
+    tel: "+254110845660",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/jxnl",
+        url: "https://github.com/sugutt",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/jxnlco/",
+        url: "https://www.linkedin.com/in/emmanuelsugut/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/jxnlco",
+        url: "https://x.com/sugutt_",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "University of Waterloo",
-      degree: "B.Math. Computational Mathematics and Statistics",
-      start: "2012",
-      end: "2017",
+      school: "Riara University",
+      degree: "BSC Computer Science",
+      start: "2021",
+      end: "2025",
     },
   ],
   work: [

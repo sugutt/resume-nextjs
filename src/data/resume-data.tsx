@@ -11,7 +11,7 @@ export const RESUME_DATA = {
     "Cycling my time between artist and tinkerer. Currently I’m obsessed with finding the right abstractions and patterns to work with large language models.",
   summary:
     "I am currently on sabbatical at South Park Commons, where I consult and advise fast growing startups on applied ai and tech strategy.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/4852235?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/97742262?v=4",
   personalWebsiteUrl: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
   contact: {
     email: "sugutmanu@gmail.com",

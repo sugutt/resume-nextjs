@@ -137,4 +137,15 @@ export const RESUME_DATA = {
       },
     },
   ],
+  clients: [
+    {
+      title: "Rewind AI",
+      techStack: ["memory", "personal computing"],
+      description: "Rewind AI is a personal memory assistant that helps you remember, organize, and navigate your life.",
+      link: {
+        label: "rewind.ai",
+        href: "http://rewind.ai",
+      },
+    },
+    ],
 } as const;

@@ -8,9 +8,9 @@ export const RESUME_DATA = {
   location: "Nairobi",
   locationLink: "https://www.google.com/maps/place/Nairobi",
   about:
-    "Cycling my time between artist and tinkerer. Currently I’m obsessed with finding the right abstractions and patterns to work with large language models.",
+    "Cycling my time between artist and tinkerer. Currently I’m obsessed with finding the right abstractions and patterns to work with large language models and machine learning to develop impactful use cases for Africa.",
   summary:
-    "Passionate about turning lines of code into solutions at Riara University, specializing in machine learning and deep learning.I thrive on building predictive models, training neural networks, and crafting natural language processing tools.Currently immersed in NLP projects, aiming to enhance communication and simplify the complex.Eager to tackle technical challenges and collaborate on impactful solutions that make a positive difference in the world.Let's connect for creative and dedicated contributions to your team or project!",
+    "Passionate about turning lines of code into solutions at Riara University, specializing in machine learning and deep learning.I thrive on building predictive models, training neural networks, and crafting natural language processing tools. Eager to tackle technical challenges and collaborate on impactful solutions that make a positive difference in the world.Let's connect for creative and dedicated contributions to your team or project!",
   avatarUrl: "https://avatars.githubusercontent.com/u/97742262?v=4",
   personalWebsiteUrl: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
   contact: {
@@ -39,7 +39,7 @@ export const RESUME_DATA = {
       school: "Riara University",
       degree: "BSC Computer Science",
       start: "2021",
-      end: "2025",
+      end: "Present",
     },
   ],
   work: [
@@ -58,7 +58,7 @@ export const RESUME_DATA = {
       company: "Student Representative Computing",
       link: "www.riarauniversity.co.ke",
       badges: ["Leadership"],
-      title: "Member",
+      title: "School Representative",
       logo: "", // Add logo if available
       start: "2023",
       end: "Present",

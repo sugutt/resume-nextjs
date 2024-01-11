@@ -45,8 +45,8 @@ export const RESUME_DATA = {
   work: [
     {
       company: "789",
-      link: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
-      badges: ["Consulting"],
+      link:"https://sugutt.com",
+      badges: ["Coming Soon"],
       title: "Owner / Consultant",
       logo: "", // Add logo if available
       start: "2023",
@@ -96,36 +96,6 @@ export const RESUME_DATA = {
     "Data Science",
   ],
   projects: [
-    {
-      title: "Instructor",
-      techStack: ["python", "llms", "structured extraction"],
-      description:
-        "Structured extraction for LLMS using Pydantic, Over 30k monthly downloads on PyPI.",
-      link: {
-        label: "Instructor",
-        href: "https://jxnl.github.io/instructor/",
-      },
-    },
-    {
-      title: "Multimodal Search",
-      techStack: ["Stitchfix", "pytorch", "representation learning", "search"],
-      description:
-        "Lead computer vision research, and embedding search system using multi-modal embeddings powered by image, text, and impression data.",
-      link: {
-        label: "Stylist Shuffle",
-        href: "https://www.stitchfix.com/women/blog/inside-stitchfix/how-style-shuffle-works/",
-      },
-    },
-    {
-      title: "RecSys Framework",
-      techStack: ["devops", "python", "orchestration", "observability"],
-      description:
-        "Designed and implemented Flight, a recommendation framework that improved system reliability and scalability, handling over 350 million daily requests.",
-      link: {
-        label: "Learn more about Flight at Stitchfix",
-        href: "https://jxnl.notion.site/Recommendations-with-Flight-at-Stitch-Fix-bf5de4e932b34af1ad912294236d81ba",
-      },
-    },
     {
       title: "Journal",
       techStack: ["typescript", "prompt engineering"],

@@ -63,7 +63,7 @@ export const RESUME_DATA = {
       start: "2023",
       end: "Present",
       description:
-        "Exploring LLM tooling around structured extraction and self-hosting. Launched Youtube University and developing Journal, an AI-powered journaling application.",
+        "As The School Representative, i take on leadership, representative roles that enable me to act as a bridge between students and the faculty.",
     },
     {
       company: "HashNode",

@@ -97,13 +97,23 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Journal",
-      techStack: ["typescript", "prompt engineering"],
+      title: "Llama - Financials",
+      techStack: ["AI","llm", "prompt engineering"],
       description:
-        "AI-powered journaling application with long-term memory and semantic search.",
+        "Using AI-powered OpenAI and llama index to read financial news and give future predictions and stock outlook.",
       link: {
-        label: "Journal",
-        href: "http://usejournal.xyz",
+        label: "Finance",
+        href: "https://github.com/sugutt/llama-financials",
+      },
+    },
+    {
+      title: "AI Library",
+      techStack: ["AI","llm", "prompt engineering"],
+      description:
+        "I feed my AI with books I'd like to read using RAG and a vector database. I get a snippet of a chapter each and everyday.",
+      link: {
+        label: "IN- PROGRESS",
+        href: "https://gist.github.com/sugutt/0ac03ea81aa3cf13a8adbbbda4dd2d4b",
       },
     },
   ],
